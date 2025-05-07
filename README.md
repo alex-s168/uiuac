@@ -3,7 +3,7 @@
 
 uiuac can also be used to generate a graph of your code.
 
-uiuac development gets discussed on the [Uiua Discord server](https://discord.gg/FKJPwHxM), in [this thread](https://discord.com/channels/1156339038748413952/1247846178645872661).
+uiuac development gets discussed on the [Uiua Discord server](https://discord.gg/bs9RySbE8R), in [this thread](https://discord.com/channels/1156339038748413952/1247846178645872661).
 
 ## Advantages
 - no interpreter overhead (variables, op execution, error & type checking)
