@@ -58,3 +58,5 @@ If you don't have bash installed, run (not recommended):
 ```
 
 for more features (like generating graphs), see the help text (`./uiuac --help` or `./gradlew run --args "--help"`)
+
+<img width="1169" height="855" alt="image" src="https://github.com/user-attachments/assets/de357aaf-c422-49b2-8dca-dbd5895a4229" />
